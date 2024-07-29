@@ -15,6 +15,7 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "DeltaNeverUsed/USPPPatcher",
-        "DeltaNeverUsed/USPPNet"
+        "DeltaNeverUsed/USPPNet",
+        "DeltaNeverUsed/UdonSharpProfiler"
     ],
 }
